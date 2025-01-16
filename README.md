@@ -55,8 +55,8 @@ I am a graduate student at Stevens Institute of Technology pursuing my Master's 
 ### 📫 Let's Connect!
 
 - **Email**: [ahujagautam024@gmail.com](mailto:ahujagautam024@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/gautamahuja](https://www.linkedin.com/in/gautamahuja)  
-- **Portfolio**: [gautamahuja.dev](https://gautamahuja.dev) (if you have one)  
+- **LinkedIn**: [linkedin.com/in/gautamahuja](https://www.linkedin.com/in/gahuja024)  
+- **Portfolio**: [gautamahuja.dev](https://ahujagautam024.github.io/portfolio)
 
 ---
 
